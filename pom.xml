@@ -32,7 +32,7 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.11</version>
+            <version>4.13.1</version>
         </dependency>
         <!--构建Web，包含RESTful风格框架SpringMVC和默认的嵌入式容器Tomcat.
         RESTful是一种软件架构风格，设计风格而不是标准，只是提供了一组设计原则和约束条件.-->
